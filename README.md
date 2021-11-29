@@ -7,3 +7,5 @@ The purpose of this repo is:
 - Understand the usage of integrity constraints in relational databases
 - Describe the concept of transactions and concurrency control
 - Construct basic and advanced queries in a NoSQL DBMS
+
+Here is the [Cheetsheet](https://www.postgresqltutorial.com/wp-content/uploads/2018/03/PostgreSQL-Cheat-Sheet.pdf) of PostgreSQL.
